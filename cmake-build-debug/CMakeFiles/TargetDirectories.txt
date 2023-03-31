@@ -1,0 +1,3 @@
+C:/Users/Calatayud/CLionProjects/parcialito1/cmake-build-debug/CMakeFiles/parcialito1.dir
+C:/Users/Calatayud/CLionProjects/parcialito1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Calatayud/CLionProjects/parcialito1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
